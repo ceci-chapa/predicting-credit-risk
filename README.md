@@ -1,1 +1,1 @@
-# predicting-credit-risk
+# Predicting Credit Risk
